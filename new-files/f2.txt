@@ -1,2 +1,2 @@
-This is f2 text file.
+a
 
